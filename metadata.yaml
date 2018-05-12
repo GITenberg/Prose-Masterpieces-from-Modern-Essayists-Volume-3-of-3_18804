@@ -1,0 +1,65 @@
+_repo: Prose-Masterpieces-from-Modern-Essayists-Volume-3-of-3_18804
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Stephen, Leslie
+    alias: Stephen, Sir Leslie
+    birthdate: 1832
+    deathdate: 1904
+    gutenberg_agent_id: '3802'
+    url: http://www.gutenberg.org/2009/agents/3802
+    wikipedia: http://en.wikipedia.org/wiki/Leslie_Stephen
+  - agent_name: Gladstone, W. E. (William Ewart)
+    aliases:
+    - Gladstone, William Ewart
+    - Gladstone, William E. (William Ewart)
+    birthdate: 1809
+    deathdate: 1898
+    gutenberg_agent_id: '1195'
+    url: http://www.gutenberg.org/2009/agents/1195
+    wikipedia: http://en.wikipedia.org/wiki/William_Ewart_Gladstone
+  - agent_name: Newman, John Henry
+    aliases:
+    - Newman, J. H. (John Henry)
+    - Newman, John Henry, Cardinal
+    birthdate: 1801
+    deathdate: 1890
+    gutenberg_agent_id: '8264'
+    url: http://www.gutenberg.org/2009/agents/8264
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Newman
+  - agent_name: Froude, James Anthony
+    alias: Froude, J. A. (James Anthony)
+    birthdate: 1818
+    deathdate: 1894
+    gutenberg_agent_id: '1381'
+    url: http://www.gutenberg.org/2009/agents/1381
+    wikipedia: http://en.wikipedia.org/wiki/James_Anthony_Froude
+  - agent_name: Freeman, Edward A. (Edward Augustus)
+    aliases:
+    - Freeman, Edward Augustus
+    - Freeman, E. A. (Edward Augustus)
+    birthdate: 1823
+    deathdate: 1892
+    gutenberg_agent_id: '526'
+    url: http://www.gutenberg.org/2009/agents/526
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Augustus_Freeman
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2006-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18804'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays -- 19th century'
+tableOfContents: "The Science of History. By James Anthony Froude\r\nRace and Language.\
+  \ By Edward A. Freeman\r\nKin Beyond Sea. By William Ewart Gladstone\r\nPrivate\
+  \ Judgment. By John Henry Newman\r\nAn Apology for Plainspeaking. By Leslie Stephen."
+title: Prose Masterpieces from Modern Essayists, Volume 3 of 3
+url: http://www.gutenberg.org/ebooks/18804
